@@ -1,103 +1,100 @@
-CdA sqft,CdA m2,Automobile model
-5.2 sq ft,0.48 m2,2019 Mercedes-Benz A 180 d (V177)
-5.3 sq ft,0.49 m2,2013 Mercedes-Benz CLA 180 BlueEfficiency
-5.4 sq ft,0.50 m2,1989 Opel Calibra (8 valve)
-5.5 sq ft,0.51 m2,2015 Audi A4 2.0 TDI ultra (110 kW)
-5.52 sq ft,0.513 m2,2019 Porsche Taycan Turbo
-5.6 sq ft,0.52 m2,2017 BMW 520d EfficientDynamics
-5.6 sq ft,0.52 m2,1993 Mazda RX-7 FD (base model)
-5.70 sq ft,0.530 m2,1985 Subaru Alcyone/XT/Vortex
-5.71 sq ft,0.530 m2,1990 Honda CR-X Si
-5.74 sq ft,0.533 m2,2002 Acura NSX
-5.76 sq ft,0.535 m2,1968 Toyota 2000GT
-5.80 sq ft,0.539 m2,1986 Toyota MR2
-5.81 sq ft,0.540 m2,1989 Mitsubishi Eclipse GSX
-5.86 sq ft,0.544 m2,2001 Audi A2 1.2 TDI 3L
-5.88 sq ft,0.546 m2,1990 Nissan 240SX / 200SX / 180SX
-5.90 sq ft,0.548 m2,2015 BMW i8
-5.92 sq ft,0.550 m2,1994 Porsche 911 Speedster
-5.95 sq ft,0.553 m2,1990 Mazda RX7
-5.96 sq ft,0.554 m2,1993 Mazda RX-7 FD R1(R2)
-6.0 sq ft,0.56 m2,2001 Honda Insight
-6.00 sq ft,0.557 m2,1992 Subaru SVX
-6.00 sq ft,0.557 m2,1970 Lamborghini Miura
-6.05 sq ft,0.562 m2,2012 Tesla Model S P85
-6.08 sq ft,0.565 m2,2008 Nissan GTR
-6.08 sq ft,0.565 m2,1989 Geo Metro
-6.13 sq ft,0.569 m2,1991 Acura NSX
-6.17 sq ft,0.573 m2,1995 Lamborghini Diablo
-6.19 sq ft,0.575 m2,1981 Citroën GSA X3
-6.20 sq ft,0.576 m2,2014 Toyota Prius
-6.24 sq ft,0.580 m2,2004 Toyota Prius
-6.27 sq ft,0.583 m2,1986 Porsche 911 Carrera
-6.27 sq ft,0.583 m2,1992 Chevrolet Corvette
-6.35 sq ft,0.590 m2,1999 Lotus Elise
-6.37 sq ft,0.592 m2,2000 Vauxhall VX220 N/A
-6.40 sq ft,0.595 m2,1990 Lotus Esprit
-6.41 sq ft,0.596 m2,2003 Smart Roadster Coupé
-6.54 sq ft,0.608 m2,1991 Saturn Sports Coupe
-6.57 sq ft,0.610 m2,1985 Chevrolet Corvette
-6.63 sq ft,0.616 m2,2001 Audi A2
-6.66 sq ft,0.619 m2,1996 Citroën Saxo
-6.70 sq ft,0.622 m2,2014 Chevrolet Volt
-6.77 sq ft,0.629 m2,1995 BMW M3
-6.79 sq ft,0.631 m2,1993 Toyota Corolla DX
-6.80 sq ft,0.632 m2,2007 BMW 335i Coupe
-6.81 sq ft,0.633 m2,1991 Subaru Legacy
-6.89 sq ft,0.640 m2,2019 Renault Clio V
-6.90 sq ft,0.641 m2,1993 Saturn Wagon
-6.93 sq ft,0.644 m2,1982 DMC DeLorean
-6.94 sq ft,0.645 m2,2003 Smart Roadster
-6.96 sq ft,0.647 m2,1988 Porsche 944 S
-7.00 sq ft,0.650 m2,2013 Mercedes-Benz CLA250
-7.02 sq ft,0.652 m2,1992 BMW 325I
-7.04 sq ft,0.654 m2,1991 Honda Civic EX
-7.06 sq ft,0.656 m2,2004 Vauxhall VX220 Turbo
-7.10 sq ft,0.660 m2,1995 Saab 900
-7.11 sq ft,0.661 m2,1991 Ford Thunderbird LX
-7.13 sq ft,0.662 m2,1970 Citroën SM
-7.14 sq ft,0.663 m2,1995 Subaru Legacy L
-7.20 sq ft,0.669 m2,1995 Nissan Maxima GLE
-7.34 sq ft,0.682 m2,2001 Honda Civic
-7.39 sq ft,0.687 m2,1994 Honda Accord EX
-7.4 sq ft,0.69 m2,2018 BMW X1 sDrive18i
-7.48 sq ft,0.695 m2,1993 Chevrolet Camaro Z28
-7.57 sq ft,0.703 m2,1992 Toyota Camry
-7.63 sq ft,0.709 m2,1974 Citroën CX
-7.69 sq ft,0.714 m2,1994 Chrysler LHS
-7.72 sq ft,0.717 m2,1993 Subaru Impreza
-7.80 sq ft,0.725 m2,2012 Nissan Leaf SL
-8.02 sq ft,0.745 m2,2005 Bugatti Veyron
-8.1 sq ft,0.75 m2,2016 Renault Zoe
-8.70 sq ft,0.808 m2,1990 Volvo 740 Turbo
-8.70 sq ft,0.808 m2,1992 Ford Crown Victoria
-8.71 sq ft,0.809 m2,1991 Buick LeSabre Limited
-8.79 sq ft,0.817 m2,1956 Citroën DS Spécial
-9.54 sq ft,0.886 m2,1992 Chevrolet Caprice Wagon
-9.6 sq ft,0.89 m2,2010 Chrysler PT Cruiser
-9.95 sq ft,0.924 m2,2016 Chrysler Pacifica
-10.7 sq ft,0.99 m2,1992 Chevrolet Blazer
-11.6 sq ft,1.08 m2,2005 Ford Escape Hybrid
-11.7 sq ft,1.09 m2,1993 Jeep Grand Cherokee
-12.2 sq ft,1.13 m2,1949 Nash Airflyte
-13.0 sq ft,1.21 m2,2019 Ram 1500
-13.1 sq ft,1.22 m2,2021 Jeep Wagoneer (WS)
-16.8 sq ft,1.56 m2,2006 Hummer H3
-17 sq ft,1.6 m2,2013 Mercedes-Benz G-Class
-17.4 sq ft,1.62 m2,1995 Land Rover Discovery
-26.5 sq ft,2.46 m2,2003 Hummer H2
-CdA sqft,CdA m2,Automobile model
-3.00 sq ft,0.279 m2,2011 Volkswagen XL1
-3.95 sq ft,0.367 m2,1996 GM EV1
-CdA sqft,CdA m2,Automobile model
-0.21 sq ft,0.020 m2,Pac-car II
-2.04 sq ft,0.190 m2,2011 Aptera 2 Series
-2.10 sq ft,0.195 m2,2013 Urbee 2
-2.50 sq ft,0.232 m2,1986 Twike
-2.54 sq ft,0.236 m2,2002 Opel Eco-Speedster
-2.69 sq ft,0.250 m2,2009 Loremo
-2.78 sq ft,0.258 m2,2010 Edison2 Very Light Car
-3.27 sq ft,0.304 m2,1987 Renault VESTA II [fr]
-4.72 sq ft,0.439 m2,2014 Volkswagen XL Sport
-5.00 sq ft,0.465 m2,2005 Mercedes-Benz Bionic
-
+CdA sqft,CdA m2,Year,Make,Model,Automobile model
+5.2 sq ft,0.48 m2,2019,Mercedes-Benz,,2019 Mercedes-Benz A 180 d (V177)
+5.3 sq ft,0.49 m2,2013,Mercedes-Benz,,2013 Mercedes-Benz CLA 180 BlueEfficiency
+5.4 sq ft,0.50 m2,1989,Opel,,1989 Opel Calibra (8 valve)
+5.5 sq ft,0.51 m2,2015,Audi,,2015 Audi A4 2.0 TDI ultra (110 kW)
+5.52 sq ft,0.513 m2,2019,Porsche,,2019 Porsche Taycan Turbo
+5.6 sq ft,0.52 m2,2017,BMW,,2017 BMW 520d EfficientDynamics
+5.6 sq ft,0.52 m2,1993,Mazda,,1993 Mazda RX-7 FD (base model)
+5.70 sq ft,0.530 m2,1985,Subaru,,1985 Subaru Alcyone/XT/Vortex
+5.71 sq ft,0.530 m2,1990,Honda,,1990 Honda CR-X Si
+5.74 sq ft,0.533 m2,2002,Acura,,2002 Acura NSX
+5.76 sq ft,0.535 m2,1968,Toyota,,1968 Toyota 2000GT
+5.80 sq ft,0.539 m2,1986,,,1986 Toyota MR2
+5.81 sq ft,0.540 m2,1989,,,1989 Mitsubishi Eclipse GSX
+5.86 sq ft,0.544 m2,2001,,,2001 Audi A2 1.2 TDI 3L
+5.88 sq ft,0.546 m2,1990,,,1990 Nissan 240SX / 200SX / 180SX
+5.90 sq ft,0.548 m2,2015,,,2015 BMW i8
+5.92 sq ft,0.550 m2,1994,,,1994 Porsche 911 Speedster
+5.95 sq ft,0.553 m2,1990,,,1990 Mazda RX7
+5.96 sq ft,0.554 m2,1993,,,1993 Mazda RX-7 FD R1(R2)
+6.0 sq ft,0.56 m2,2001,,,2001 Honda Insight
+6.00 sq ft,0.557 m2,1992,,,1992 Subaru SVX
+6.00 sq ft,0.557 m2,1970,,,1970 Lamborghini Miura
+6.05 sq ft,0.562 m2,2012,Tesla,,2012 Tesla Model S P85
+6.08 sq ft,0.565 m2,2008,,,2008 Nissan GTR
+6.08 sq ft,0.565 m2,1989,,,1989 Geo Metro
+6.13 sq ft,0.569 m2,1991,,,1991 Acura NSX
+6.17 sq ft,0.573 m2,1995,,,1995 Lamborghini Diablo
+6.19 sq ft,0.575 m2,1981,,,1981 Citroën GSA X3
+6.20 sq ft,0.576 m2,2014,,,2014 Toyota Prius
+6.24 sq ft,0.580 m2,2004,,,2004 Toyota Prius
+6.27 sq ft,0.583 m2,1986,,,1986 Porsche 911 Carrera
+6.27 sq ft,0.583 m2,1992,,,1992 Chevrolet Corvette
+6.35 sq ft,0.590 m2,1999,,,1999 Lotus Elise
+6.37 sq ft,0.592 m2,2000,,,2000 Vauxhall VX220 N/A
+6.40 sq ft,0.595 m2,1990,,,1990 Lotus Esprit
+6.41 sq ft,0.596 m2,2003,,,2003 Smart Roadster Coupé
+6.54 sq ft,0.608 m2,1991,,,1991 Saturn Sports Coupe
+6.57 sq ft,0.610 m2,1985,,,1985 Chevrolet Corvette
+6.63 sq ft,0.616 m2,2001,,,2001 Audi A2
+6.66 sq ft,0.619 m2,1996,,,1996 Citroën Saxo
+6.70 sq ft,0.622 m2,2014,,,2014 Chevrolet Volt
+6.77 sq ft,0.629 m2,1995,,,1995 BMW M3
+6.79 sq ft,0.631 m2,1993,,,1993 Toyota Corolla DX
+6.80 sq ft,0.632 m2,2007,,,2007 BMW 335i Coupe
+6.81 sq ft,0.633 m2,1991,,,1991 Subaru Legacy
+6.89 sq ft,0.640 m2,2019,,,2019 Renault Clio V
+6.90 sq ft,0.641 m2,1993,,,1993 Saturn Wagon
+6.93 sq ft,0.644 m2,1982,,,1982 DMC DeLorean
+6.94 sq ft,0.645 m2,2003,,,2003 Smart Roadster
+6.96 sq ft,0.647 m2,1988,,,1988 Porsche 944 S
+7.00 sq ft,0.650 m2,2013,,,2013 Mercedes-Benz CLA250
+7.02 sq ft,0.652 m2,1992,,,1992 BMW 325I
+7.04 sq ft,0.654 m2,1991,,,1991 Honda Civic EX
+7.06 sq ft,0.656 m2,2004,,,2004 Vauxhall VX220 Turbo
+7.10 sq ft,0.660 m2,1995,,,1995 Saab 900
+7.11 sq ft,0.661 m2,1991,,,1991 Ford Thunderbird LX
+7.13 sq ft,0.662 m2,1970,,,1970 Citroën SM
+7.14 sq ft,0.663 m2,1995,,,1995 Subaru Legacy L
+7.20 sq ft,0.669 m2,1995,,,1995 Nissan Maxima GLE
+7.34 sq ft,0.682 m2,2001,,,2001 Honda Civic
+7.39 sq ft,0.687 m2,1994,,,1994 Honda Accord EX
+7.4 sq ft,0.69 m2,2018,,,2018 BMW X1 sDrive18i
+7.48 sq ft,0.695 m2,1993,,,1993 Chevrolet Camaro Z28
+7.57 sq ft,0.703 m2,1992,,,1992 Toyota Camry
+7.63 sq ft,0.709 m2,1974,,,1974 Citroën CX
+7.69 sq ft,0.714 m2,1994,,,1994 Chrysler LHS
+7.72 sq ft,0.717 m2,1993,,,1993 Subaru Impreza
+7.80 sq ft,0.725 m2,2012,,,2012 Nissan Leaf SL
+8.02 sq ft,0.745 m2,2005,,,2005 Bugatti Veyron
+8.1 sq ft,0.75 m2,2016,,,2016 Renault Zoe
+8.70 sq ft,0.808 m2,1990,,,1990 Volvo 740 Turbo
+8.70 sq ft,0.808 m2,1992,,,1992 Ford Crown Victoria
+8.71 sq ft,0.809 m2,1991,,,1991 Buick LeSabre Limited
+8.79 sq ft,0.817 m2,1956,,,1956 Citroën DS Spécial
+9.54 sq ft,0.886 m2,1992,,,1992 Chevrolet Caprice Wagon
+9.6 sq ft,0.89 m2,2010,,,2010 Chrysler PT Cruiser
+9.95 sq ft,0.924 m2,2016,,,2016 Chrysler Pacifica
+10.7 sq ft,0.99 m2,1992,,,1992 Chevrolet Blazer
+11.6 sq ft,1.08 m2,2005,,,2005 Ford Escape Hybrid
+11.7 sq ft,1.09 m2,1993,,,1993 Jeep Grand Cherokee
+12.2 sq ft,1.13 m2,1949,,,1949 Nash Airflyte
+13.0 sq ft,1.21 m2,2019,,,2019 Ram 1500
+13.1 sq ft,1.22 m2,2021,,,2021 Jeep Wagoneer (WS)
+16.8 sq ft,1.56 m2,2006,,,2006 Hummer H3
+17 sq ft,1.6 m2,2013,,,2013 Mercedes-Benz G-Class
+17.4 sq ft,1.62 m2,1995,,,1995 Land Rover Discovery
+26.5 sq ft,2.46 m2,2003,,,2003 Hummer H2
+3.00 sq ft,0.279 m2,2011,,,2011 Volkswagen XL1
+3.95 sq ft,0.367 m2,1996,,,1996 GM EV1
+0.21 sq ft,0.020 m2,Pac-,,,Pac-car II
+2.04 sq ft,0.190 m2,2011,,,2011 Aptera 2 Series
+2.10 sq ft,0.195 m2,2013,,,2013 Urbee 2
+2.50 sq ft,0.232 m2,1986,,,1986 Twike
+2.54 sq ft,0.236 m2,2002,,,2002 Opel Eco-Speedster
+2.69 sq ft,0.250 m2,2009,,,2009 Loremo
+2.78 sq ft,0.258 m2,2010,,,2010 Edison2 Very Light Car
+3.27 sq ft,0.304 m2,1987,,,1987 Renault VESTA II [fr]
+4.72 sq ft,0.439 m2,2014,,,2014 Volkswagen XL Sport
+5.00 sq ft,0.465 m2,2005,,,2005 Mercedes-Benz Bionic
